@@ -1,0 +1,21 @@
+{
+  "name": "tourmanagementsystem",
+  "version": "1.0.0",
+  "description": "My Node.js project",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon App.js"
+  },
+  "author": "Hafiz Abdullah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
